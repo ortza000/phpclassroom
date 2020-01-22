@@ -10,13 +10,13 @@
 </head>
 <body>
 <?php
-echo "Welcom to platform";
-echo "Welcom to classroom";
-echo "Welcom to saksin";
-echo "Welcom to rit";
-echo "Welcom to rock";
-echo "Welcom to ford";
-echo "Welcom to oat";
+echo "Welcom to platform<br>";
+echo "Welcom to classroom<br>";
+echo "Welcom to saksin<br>";
+echo "Welcom to rit<br>";
+echo "Welcom to rock<br>";
+echo "Welcom to ford<br>";
+echo "Welcom to oat<br>";
 ?>
     
 </body>
