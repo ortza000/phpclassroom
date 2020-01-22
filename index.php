@@ -13,6 +13,7 @@
 echo "Welcom to platform";
 echo "Welcom to classroom";
 echo "Welcom to saksin";
+echo "Welcom to rit";
 ?>
     
 </body>
