@@ -16,6 +16,7 @@ echo "Welcom to saksin";
 echo "Welcom to rit";
 echo "Welcom to rock";
 echo "Welcom to ford";
+echo "Welcom to oat";
 ?>
     
 </body>
