@@ -15,6 +15,7 @@ echo "Welcom to classroom";
 echo "Welcom to saksin";
 echo "Welcom to rit";
 echo "Welcom to rock";
+echo "Welcom to ford";
 ?>
     
 </body>
