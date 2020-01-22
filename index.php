@@ -11,6 +11,7 @@
 <body>
 <?php
 echo "Welcom to platform";
+echo "Welcom to classroom";
 ?>
     
 </body>
